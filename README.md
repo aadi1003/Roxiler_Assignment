@@ -1,5 +1,5 @@
 How to install and run this project :-<br/>
-Step 1: First clone this this git repository in your local system by using the command ( git clone https://github.com/aadi1003/Roxiler_Assignment.git)<br/>
+Step 1: First clone this this git repository in your local system by using the command <br/> ( git clone https://github.com/aadi1003/Roxiler_Assignment.git )<br/>
 Step 2: You will have two folders Frontend and Backend<br/>
 
 
