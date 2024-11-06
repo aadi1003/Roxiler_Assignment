@@ -1,8 +1,3 @@
-
-
-// mongodb+srv://adityawani2024main:Aditya@1003@roxi-assignment.jca1w.mongodb.net/
-
-
 import mongoose from 'mongoose'
 
 const dbConnection=async()=>{
